@@ -16,4 +16,6 @@ https://e-words.jp/w/Git.html
 
 ### 1-1 GitHub にアクセスしてアカウント情報を登録する
 
-- 「GitHub」の公式サイト(https://github.com/)にアクセス
+- 「GitHub」の公式サイト (https://github.com/) にアクセス
+
+写真と全く同じとは限りません
