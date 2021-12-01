@@ -62,3 +62,10 @@ https://e-words.jp/w/Git.html
 ![](https://user-images.githubusercontent.com/92492715/144177766-c4803afb-4290-409c-b176-91e810a632ff.png "成功")
 
 </details>
+
+#
+
+<details>
+<summary><span style="font-size: 180%"><strong>
+2.GitHubを使う上で知っておきたい事前知識
+</strong></span></summary>
