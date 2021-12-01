@@ -20,5 +20,5 @@ https://e-words.jp/w/Git.html
 
 写真と全く同じとは限りません
 
-![登録画面](https://github.com/kody017753/git-various/issues/2#issue-1067942062 "登録画面")
+![登録画面](https://user-images.githubusercontent.com/92492715/144171003-19b170aa-0838-41b2-9a75-406c80b5f177.png "登録画面")
 
