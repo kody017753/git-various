@@ -17,7 +17,7 @@ https://e-words.jp/w/Git.html
 
 <details>
 <summary><span style="font-size: 180%"><strong>
-## 1.「GitHub」のアカウントを作成する方法
+1.「GitHub」のアカウントを作成する方法
 </strong></span></summary>
 
 ### 1-1 GitHub にアクセスしてアカウント情報を登録する
