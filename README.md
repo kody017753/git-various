@@ -39,3 +39,18 @@ https://e-words.jp/w/Git.html
 
 - ✅の表示を確認後、「Create account」をクリック
 ![](https://user-images.githubusercontent.com/92492715/144175466-cd0c63db-f3fc-44eb-bda0-5036d0bc6e9d.png "アカウント作成")
+
+- 登録したアドレスにメールが届くので、記載された８桁の数字を入力する
+![](https://user-images.githubusercontent.com/92492715/144177119-e94fb99a-e617-41bf-833f-12335f498c70.png "コード入力")
+
+- 色々聞かれているがとりあえず「Just me」にチェックを入れて下の「Continue」をクリックする
+![](https://user-images.githubusercontent.com/92492715/144177506-e8a6f71e-f14d-4cec-b8d5-133b48ca7335.png "いろいろ")
+
+- そのまま「Continue」をクリックする
+![](https://user-images.githubusercontent.com/92492715/144177665-70308ad6-b6fb-4b90-9c60-a0afcbc8ac8c.png "そのまま")
+
+- 無償で使える「Contunue for free」をクリックする
+![](https://user-images.githubusercontent.com/92492715/144177684-59f93577-6f06-4656-ba9d-99630d36fad8.png "無償選択")
+
+- すごいムービーが始まったら成功
+![](https://user-images.githubusercontent.com/92492715/144177766-c4803afb-4290-409c-b176-91e810a632ff.png "成功")
