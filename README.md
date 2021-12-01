@@ -24,3 +24,4 @@ https://e-words.jp/w/Git.html
 
 - メールアドレスを入力（Gmailが望ましい。未所持の場合は[コチラ](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount%3Fnc%3D1&hl=ja&flowName=GlifWebSignIn&flowEntry=SignUp)から無料で登録）
 
+(https://user-images.githubusercontent.com/92492715/144172204-75a11062-407a-469e-87ca-e2dd8feb7a8e.png "アドレス入力")
