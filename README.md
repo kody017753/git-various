@@ -12,7 +12,7 @@ https://e-words.jp/w/Git.html
 **「GitHub」** とは、バージョン管理システムの **「Git」** を利用して、ソフトウェア開発プロジェクトのソースコード管理を共有することができる **Web サービス** です。  
 今回、参考資料を一括で確認するために登録が必要！
 
----
+
 #
 
 <details>
@@ -60,3 +60,5 @@ https://e-words.jp/w/Git.html
 
 - すごいムービーが始まったら成功
 ![](https://user-images.githubusercontent.com/92492715/144177766-c4803afb-4290-409c-b176-91e810a632ff.png "成功")
+
+</details>
