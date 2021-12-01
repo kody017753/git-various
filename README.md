@@ -31,5 +31,11 @@ https://e-words.jp/w/Git.html
 - 好きなユーザー名を決めたら「Continue」をクリック
 ![](https://user-images.githubusercontent.com/92492715/144173989-7f4582aa-8732-46fe-9f07-ea10515d0220.png "ユーザー名")
 
-- 製品のアップデートやお知らせをメールで受け取るか聞かれているので「y」(yes)か「n」(no)を入力後、「Continue」をクリック
--[](https://user-images.githubusercontent.com/92492715/144174492-a7d33131-e7c7-44cf-a5b8-86da496027ff.png "メール受け取り")
+- 製品のアップデートやお知らせをメールで受け取るか聞かれているので「y」(yes) か「n」(no) 好きなほうを入力後、「Continue」をクリック
+[](https://user-images.githubusercontent.com/92492715/144174492-a7d33131-e7c7-44cf-a5b8-86da496027ff.png "メール受け取り")
+
+- 「検証する」をクリックして簡単な質問（〇〇の画像はどれか等）に答える
+[](https://user-images.githubusercontent.com/92492715/144175138-ad617066-712c-474d-83a8-e1df63edd31b.png "検証")
+
+- ✅の表示を確認後、「Create account」をクリック
+- [](https://user-images.githubusercontent.com/92492715/144175466-cd0c63db-f3fc-44eb-bda0-5036d0bc6e9d.png "アカウント作成")
