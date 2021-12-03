@@ -78,8 +78,10 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 
 <details>
 <summary><span style="font-size: 180%"><strong>
-1.「GitLab」のアカウントを作成する方法
+2.「GitLab」のアカウントを作成する方法
 </strong></span></summary>
+
+</details>
 
 #
 
@@ -135,4 +137,10 @@ inportを進めると以下のような表示に。
 
 ## Gitlab
 
-**GitLab** とは
+**GitLab** とはGitの機能が搭載されたBashというものになります
+
+Bashとは簡単に言えば、命令を画面に打ち込みコンピュータが命令に従いファイルの操作やファイルの編集、削除といった操作ができるソフトウェアです。　　
+
+
+こんなやつ
+![](https://user-images.githubusercontent.com/92492715/144550331-0d52dcd1-ad6c-44a2-a0ed-50872bc7146e.png)
