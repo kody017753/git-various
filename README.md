@@ -163,8 +163,8 @@ Git Bashを導入
   - 公式サイトにアクセスする  
   https://gitforwindows.org/
 
-  - 
-  
+  - 「Download」を押しダウンロード
+  ![](https://user-images.githubusercontent.com/92492715/144552572-93d2e82f-c6c0-47f7-8573-3de58c96cbd2.png)
   </details>
   
 ### 参考文献
