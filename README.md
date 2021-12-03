@@ -114,3 +114,5 @@ inportを進めると以下のような表示に。
 * 「Go to project」・・・インポート済みのリポジトリを開く
   
 </details> 
+
+## Git Bashのインストール方法
