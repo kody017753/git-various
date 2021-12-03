@@ -19,13 +19,14 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 
 まずはなんとなくわかればいいです！
 
-# github、GitLab
+# githubとGitLab
 
-## GitHub
-
-**GitHub** とは、バージョン管理システムの **Git** を利用して、ソフトウェア開発プロジェクトのソースコード管理を共有することができる **Web サービス** です。  
-プログラムの変更が発生する場合、必須の知識になります。
-
+**GitHub** と**Gitlab**は、どちらもバージョン管理システムの **Git** を利用して、ソフトウェア開発プロジェクトのソースコード管理を  
+共有することができる **Web サービス** のこと。  
+細かな違いはあるが、ほぼ同じ機能を有している。  
+### 参考文献
+* GitとGitHub、GitLab｜概要・それぞれの違いについて解説！  
+https://www.anken-navi.jp/news/work-freelance/git-description/
 
 #
 
@@ -74,6 +75,11 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 ![](https://user-images.githubusercontent.com/92492715/144177766-c4803afb-4290-409c-b176-91e810a632ff.png "成功")
 
 </details>
+
+<details>
+<summary><span style="font-size: 180%"><strong>
+1.「GitLab」のアカウントを作成する方法
+</strong></span></summary>
 
 #
 
