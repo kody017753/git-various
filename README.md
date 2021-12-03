@@ -9,7 +9,9 @@ https://e-words.jp/w/Git.html
 
 # github、GitLab
 
-**「GitHub」** とは、バージョン管理システムの **「Git」** を利用して、ソフトウェア開発プロジェクトのソースコード管理を共有することができる **Web サービス** です。  
+## GitHub
+
+**GitHub** とは、バージョン管理システムの **Git** を利用して、ソフトウェア開発プロジェクトのソースコード管理を共有することができる **Web サービス** です。  
 プログラムの変更が発生する場合、必須の知識になります。
 
 
@@ -19,8 +21,6 @@ https://e-words.jp/w/Git.html
 <summary><span style="font-size: 180%"><strong>
 1.「GitHub」のアカウントを作成する方法
 </strong></span></summary>
-
-### 1-1 GitHub にアクセスしてアカウント情報を登録する
 
 - 「GitHub」の公式サイト (https://github.com/) にアクセス   ※写真と全く同じとは限りません
 
