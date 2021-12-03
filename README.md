@@ -167,7 +167,22 @@ Git Bashを導入
   ![](https://user-images.githubusercontent.com/92492715/144553111-c3e0b086-edec-4274-9e21-89a337c9ddee.png)
   </details>
   
-3.   
-### 参考文献
-- Git Bashって使ってる？Windowsで動く意外にすごい便利ツール  
-https://www.sejuku.net/blog/72673
+3.  左下のファイルをクリック
+![](https://user-images.githubusercontent.com/92492715/144556524-f272fab9-8518-4306-8262-1026d9738c55.png)
+
+※消してしまった場合はダウンロードフォルダ内にある以下のファイルをダブルクリック
+![](https://user-images.githubusercontent.com/92492715/144557316-67df2a12-b7b4-45e9-ac63-853b2e32870a.png)
+
+4. 「このアプリがデバイスに変更を加えることを許可しますか？」と聞かれるので「はい」をクリック
+
+5. 起動すると次のようなウインドウが表示される  
+![](https://user-images.githubusercontent.com/92492715/144558254-54f5f08e-d35d-4db4-afa3-c5abf05e52c4.png)
+
+6. （installが表示されている場合）  
+「install」をクリック
+![](https://user-images.githubusercontent.com/92492715/144559910-283b6d40-d82c-4c9f-b168-e79604ea4ce7.png)  
+（Nextが表示されている場合）  
+「Only show new options」にチェックを入れて「next」⇒「install」に切り替わることを確認後、「install」をクリック
+![](https://user-images.githubusercontent.com/92492715/144559910-283b6d40-d82c-4c9f-b168-e79604ea4ce7.png)
+)
+8. 
