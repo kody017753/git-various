@@ -5,8 +5,11 @@ WordファイルやExcelファイルを上書き保存してしまうと、以�
 
 ### 参考文献
 
-* Gitとは - IT用語辞典
+* Gitとは - IT用語辞典  
 https://e-words.jp/w/Git.html
+
+* GitとGitHub、GitLab｜概要・それぞれの違いについて解説！  
+https://www.anken-navi.jp/news/work-freelance/git-description/
 
 なんとなくわかればいいです！
 
