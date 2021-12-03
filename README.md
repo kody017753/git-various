@@ -55,7 +55,7 @@ https://e-words.jp/w/Git.html
 - そのまま「Continue」をクリックする
 ![](https://user-images.githubusercontent.com/92492715/144177665-70308ad6-b6fb-4b90-9c60-a0afcbc8ac8c.png "そのまま")
 
-- 無償で使える「Contunue for free」をクリックする
+- 無償で使えるように「Contunue for free」をクリックする
 ![](https://user-images.githubusercontent.com/92492715/144177684-59f93577-6f06-4656-ba9d-99630d36fad8.png "無償選択")
 
 - すごいムービーが始まったら成功
