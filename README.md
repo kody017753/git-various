@@ -159,14 +159,15 @@ windowsでUnixコマンドを簡単に使用するために必須
 Git Bashを導入
     </strong></span></summary>
   
-  1. インストール
-  - 公式サイトにアクセスする  
+### ・インストール
+1. 公式サイトにアクセスする  
   https://gitforwindows.org/
-
-  - 「Download」を押しダウンロード
-  ![](https://user-images.githubusercontent.com/92492715/144552572-93d2e82f-c6c0-47f7-8573-3de58c96cbd2.png)
+  
+2.「Download」を押しダウンロード
+  ![](https://user-images.githubusercontent.com/92492715/144553111-c3e0b086-edec-4274-9e21-89a337c9ddee.png)
   </details>
   
+3.   
 ### 参考文献
 - Git Bashって使ってる？Windowsで動く意外にすごい便利ツール  
 https://www.sejuku.net/blog/72673
