@@ -7,9 +7,9 @@ https://e-words.jp/w/Git.html
 
 なんとなくわかればいいです！
 
-# github、GitLab
+## github、GitLab
 
-## GitHub
+### GitHub
 
 **GitHub** とは、バージョン管理システムの **Git** を利用して、ソフトウェア開発プロジェクトのソースコード管理を共有することができる **Web サービス** です。  
 プログラムの変更が発生する場合、必須の知識になります。
@@ -115,4 +115,9 @@ inportを進めると以下のような表示に。
   
 </details> 
 
-## Git Bashのインストール方法
+<details>
+<summary><span style="font-size: 180%"><strong>
+## Git Bash
+</strong></span></summary>
+
+</details>
