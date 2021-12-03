@@ -182,10 +182,15 @@ Git Bashを導入
 ![](https://user-images.githubusercontent.com/92492715/144559910-283b6d40-d82c-4c9f-b168-e79604ea4ce7.png)  
   
 （Nextが表示されている場合）  
-「Only show new options」にチェックを入れて「next」⇒「install」に切り替わることを確認後、「install」をクリック  
+「Only show new options」にチェックを入れて「next」⇒「install」に切り替わることを確認した後、「install」をクリック  
 ![](https://user-images.githubusercontent.com/92492715/144559910-283b6d40-d82c-4c9f-b168-e79604ea4ce7.png)
   
-  
+7. 「Finish」をクリックして終了  
+![](https://user-images.githubusercontent.com/92492715/144562369-3e4398a8-c835-43ee-b6fb-6afb30a13574.png)
+  補足  
+  - 「Launch Git Bash」に✅を入れると「Finish」後、即座にGit Bashが立ち上がり起動確認ができる。
+  - 「View Release Notes」の✅を外すと「Finish」後にリリースノートが開かない。
+  ![](https://user-images.githubusercontent.com/92492715/144562419-f45c4be3-230a-4c24-b8e2-281432a6040a.png)
   
   
 </details>
