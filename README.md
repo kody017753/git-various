@@ -189,7 +189,7 @@ Git Bashを導入
 ![](https://user-images.githubusercontent.com/92492715/144562369-3e4398a8-c835-43ee-b6fb-6afb30a13574.png)  
 ### 補足  
   - 「Launch Git Bash」に✅を入れると「Finish」後、即座にGit Bashが立ち上がり起動確認ができる。
-  - 「View Release Notes」の✅を外すと「Finish」後にリリースノートが開かない。
+  - 「View Release Notes」の✅を外すと「Finish」後にリリースノートが開かない。  
   ![](https://user-images.githubusercontent.com/92492715/144562419-f45c4be3-230a-4c24-b8e2-281432a6040a.png)
   
   
