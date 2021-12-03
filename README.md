@@ -165,8 +165,7 @@ Git Bashを導入
   
 2.「Download」を押しダウンロード
   ![](https://user-images.githubusercontent.com/92492715/144553111-c3e0b086-edec-4274-9e21-89a337c9ddee.png)
-  </details>
-  
+   
 3.  左下のファイルをクリック
 ![](https://user-images.githubusercontent.com/92492715/144556524-f272fab9-8518-4306-8262-1026d9738c55.png)
 
@@ -178,11 +177,15 @@ Git Bashを導入
 5. 起動すると次のようなウインドウが表示される  
 ![](https://user-images.githubusercontent.com/92492715/144558254-54f5f08e-d35d-4db4-afa3-c5abf05e52c4.png)
 
-6. （installが表示されている場合）  
-「install」をクリック
+6. （installが表示されている場合）    
+「install」をクリック  
 ![](https://user-images.githubusercontent.com/92492715/144559910-283b6d40-d82c-4c9f-b168-e79604ea4ce7.png)  
+  
 （Nextが表示されている場合）  
-「Only show new options」にチェックを入れて「next」⇒「install」に切り替わることを確認後、「install」をクリック
+「Only show new options」にチェックを入れて「next」⇒「install」に切り替わることを確認後、「install」をクリック  
 ![](https://user-images.githubusercontent.com/92492715/144559910-283b6d40-d82c-4c9f-b168-e79604ea4ce7.png)
-)
-8. 
+  
+  
+  
+  
+</details>
