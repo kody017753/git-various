@@ -137,8 +137,15 @@ inportを進めると以下のような表示に。
 
 ## GitBash
 
+<details>
+<summary><span style="font-size: 180%"><strong>
+Git Bashとは？
+  </strong></span></summary>
+  
 **GitBash** とはGitの機能が搭載されたBashというもの。  
 Bashとは簡単に言えば、命令を画面に打ち込みコンピュータが命令に従いファイルの操作やファイルの編集、削除といった操作ができるソフトウェアです。　　
 
 こんなやつ
 ![](https://user-images.githubusercontent.com/92492715/144550331-0d52dcd1-ad6c-44a2-a0ed-50872bc7146e.png)
+  
+</details>
