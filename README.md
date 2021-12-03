@@ -163,7 +163,7 @@ Git Bashを導入
 1. 公式サイトにアクセスする  
   https://gitforwindows.org/
   
-2.「Download」を押しダウンロード
+2.「Download」をクリック
   ![](https://user-images.githubusercontent.com/92492715/144553111-c3e0b086-edec-4274-9e21-89a337c9ddee.png)
    
 3.  左下のファイルをクリック
@@ -177,12 +177,12 @@ Git Bashを導入
 5. 起動すると次のようなウインドウが表示される  
 ![](https://user-images.githubusercontent.com/92492715/144558254-54f5f08e-d35d-4db4-afa3-c5abf05e52c4.png)
 
-6. （installが表示されている場合）    
-「install」をクリック  
+6. （installが表示されている場合）「install」をクリック  
 ![](https://user-images.githubusercontent.com/92492715/144559910-283b6d40-d82c-4c9f-b168-e79604ea4ce7.png)  
   
-（Nextが表示されている場合）  
-「Only show new options」にチェックを入れて「next」⇒「install」に切り替わることを確認した後、「install」をクリック  
+（Nextが表示されている場合）「Only show new options」にチェックを入れて「next」⇒「install」に切り替わることを確認した後、「install」をクリック  
+![](https://user-images.githubusercontent.com/92492715/144565322-40fcde12-2023-4521-95ba-5e72f96f73e2.png)  
+           　　　　　         　       ↓  
 ![](https://user-images.githubusercontent.com/92492715/144559910-283b6d40-d82c-4c9f-b168-e79604ea4ce7.png)
   
 7. 「Finish」をクリックして終了  
