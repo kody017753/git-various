@@ -9,15 +9,23 @@ Gitは分散型バージョン管理を実現する`システムの総称`
 WordやExcelを上書き保存してしまうと、以前の情報はなくなってしまうが、  
 Gitなら使用しているだけで変更履歴が付く⇒情報がなくなってしまう心配がない！
 
-### 参考文献
+まずはなんとなくわかればいいです！
 
+
+<details>
+<summary><span style="font-size: 180%"><strong>
+参考文献
+</strong></span></summary>
+    
 * Gitとは - IT用語辞典  
 https://e-words.jp/w/Git.html
 
 * GitとGitHub、GitLab｜概要・それぞれの違いについて解説！  
 https://www.anken-navi.jp/news/work-freelance/git-description/
 
-まずはなんとなくわかればいいです！
+</details>  
+
+
 
 # githubとGitLab
 
