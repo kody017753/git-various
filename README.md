@@ -142,10 +142,11 @@ inportを進めると以下のような表示に。
 Git Bashとは
   </strong></span></summary>
   
-**GitBash** とはGitの機能が搭載されたBashというもの。  
-Bashとは簡単に言えば、命令を画面に打ち込みコンピュータが命令に従いファイルの操作やファイルの編集、削除といった操作ができるソフトウェアです。　　
+**GitBash** とはGitの機能が搭載されたBashのこと。  
+Bashとは簡単に言えば、Linuxに搭載されている命令を画面に打ち込みコンピュータが命令に従いファイルの操作やファイルの編集、削除といった操作ができるソフトウェアです。　　
 
-
+Windows搭載機だとこれがコマンドプロンプトになるイメージ
+  
 こんなやつ
 ![](https://user-images.githubusercontent.com/92492715/144550331-0d52dcd1-ad6c-44a2-a0ed-50872bc7146e.png)
   
@@ -189,8 +190,8 @@ Git Bashを導入
 ![](https://user-images.githubusercontent.com/92492715/144562369-3e4398a8-c835-43ee-b6fb-6afb30a13574.png)  
 ### 補足  
   - 「Launch Git Bash」に✅を入れると「Finish」後、即座にGit Bashが立ち上がり起動確認ができる。
-  - 「View Release Notes」の✅を外すと「Finish」後にリリースノートが開かない。  
+  - 「View Release Notes」の✅を外すと「Finish」後にリリースノートが開かずに済む。  
   ![](https://user-images.githubusercontent.com/92492715/144562419-f45c4be3-230a-4c24-b8e2-281432a6040a.png)
   
-  
 </details>
+
