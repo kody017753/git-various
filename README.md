@@ -172,9 +172,9 @@ Windowsだとこれがコマンドプロンプトになるイメージ
   
 </details>
 
+#
 <details>
-  
-<summary><span style="font-size: 180%"><strong>
+  <summary><span style="font-size: 180%"><strong>
 Git Bashを導入
     </strong></span></summary>
   
