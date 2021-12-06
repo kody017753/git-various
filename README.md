@@ -144,13 +144,16 @@ Git Bashとは
   
 **GitBash** とはGitの機能が搭載されたBashのこと。  
 Bashとは簡単に言えば、Linuxに搭載されている命令を画面に打ち込みコンピュータが命令に従いファイルの操作やファイルの編集、削除といった操作ができるソフトウェアです。　　
-
-Windows搭載機だとこれがコマンドプロンプトになるイメージ
+windowsでUnixコマンドを簡単に使用するために必須!  
   
 こんなやつ
-![](https://user-images.githubusercontent.com/92492715/144550331-0d52dcd1-ad6c-44a2-a0ed-50872bc7146e.png)
+![](https://user-images.githubusercontent.com/92492715/144550331-0d52dcd1-ad6c-44a2-a0ed-50872bc7146e.png)  
   
-windowsでUnixコマンドを簡単に使用するために必須
+Windowsだとこれがコマンドプロンプトになるイメージ  
+![](https://user-images.githubusercontent.com/92492715/144797294-991266a3-1add-4640-8c14-5a86c1c651cb.png)  
+
+  
+
   
 </details>
 
