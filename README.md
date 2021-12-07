@@ -116,8 +116,8 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 |**Email**|メールアドレス。GitLabからのメールが受信可能なアドレスを使用。|     
 |**Password**|パスワード。最低8文字以上で、「半角英数」と「記号」が利用可能。| 
     
-5. 
-    
+5. 登録したアドレスにGitLabからメールが届くので「request new confirmation email」をクリック
+![](https://user-images.githubusercontent.com/92492715/144971359-05472c88-8cfb-4f7e-9974-9409a23bd1d0.png)    
     
     
     
