@@ -119,7 +119,10 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 5. 登録したアドレスにGitLabからメールが届くので「request new confirmation email」をクリック
 ![](https://user-images.githubusercontent.com/92492715/144971359-05472c88-8cfb-4f7e-9974-9409a23bd1d0.png)    
     
+6. GitLabからのメールを開くと次のような画面が表示されるので、「Confirm your account」をクリック
+![](https://user-images.githubusercontent.com/92492715/144973652-0866f01a-b6cb-4e26-8f40-f973fd3daed4.png)
     
+7.    
     
     
     
