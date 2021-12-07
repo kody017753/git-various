@@ -150,7 +150,7 @@ inportを進めると以下のような表示に。
   
 </details> 
 
-## Git Bash
+# Git Bash
 
 <details>
 <summary><span style="font-size: 180%"><strong>
@@ -210,6 +210,6 @@ Git Bashを導入
   - 「Launch Git Bash」に✅を入れると「Finish」後、即座にGit Bashが立ち上がり起動確認ができる。
   - 「View Release Notes」の✅を外すと「Finish」後にリリースノートが開かずに済む。  
   ![](https://user-images.githubusercontent.com/92492715/144562419-f45c4be3-230a-4c24-b8e2-281432a6040a.png)
-  
+    
 </details>
 
