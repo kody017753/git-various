@@ -93,7 +93,7 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 #
 <details>
 <summary><span style="font-size: 180%"><strong>
-2.「GitLab」のアカウントを作成する方法
+2.「GitLab」のアカウントを作成する方法　※2021年12月時点
 </strong></span></summary>
 
 1. 公式サイトにアクセスする  
@@ -105,7 +105,7 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 3. Sign inの下にある「Register now」をクリック
 ![](https://user-images.githubusercontent.com/92492715/144954934-9e0c5d25-fadf-47b4-affc-9e08f3275e83.png) 
     
-4. 赤枠内のユーザー情報を入力後、「私はロボットではありません」に✅を入れ、「Register」をクリック
+4. 赤枠内のアカウント情報を入力後、「私はロボットではありません」に✅を入れ、「Register」をクリック
 ![](https://user-images.githubusercontent.com/92492715/144955688-16486f28-c27c-4e86-944a-5e3e466913b2.png)   
     
 | **項目** | **説明** |
@@ -115,6 +115,15 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 |**Username**|ユーザー名。「半角英数」と「-(ハイフン)」と「_(アンダースコア)」と「.(ドット)」が使用可能。「.[(ドット)」の使用は非推奨](https://www.gitlab.jp/blog/2020/06/24/why-shouldnt-use-dot-in-usernames/)| 
 |**Email**|メールアドレス。GitLabからのメールが受信可能なアドレスを使用。|     
 |**Password**|パスワード。最低8文字以上で、「半角英数」と「記号」が利用可能。| 
+    
+5. 
+    
+    
+    
+    
+    
+    
+    
     
     
 <details>
