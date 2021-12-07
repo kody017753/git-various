@@ -46,7 +46,7 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 
 <details>
 <summary><span style="font-size: 180%"><strong>
-1.「GitHub」のアカウントを作成する方法
+1.「GitHub」のアカウントを作成する方法　※2021年12月時点
 </strong></span></summary>
 
 - 「GitHub」の公式サイト (https://github.com/) にアクセス   ※写真と全く同じとは限りません
@@ -96,6 +96,18 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 2.「GitLab」のアカウントを作成する方法
 </strong></span></summary>
 
+<details>
+<summary><span style="font-size: 180%"><strong>    
+参考文献    
+</strong></span></summary>
+
+-  GitLab.comのアカウントを作成し、安全に利用する方法   
+https://www.gitlab.jp/blog/2020/06/23/steps-to-get-a-gitlab-dot-com-account-and-get-set-up/   
+    
+</details>    
+    
+    
+    
 </details>
 
 #
@@ -105,6 +117,16 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 2.GitHubを使う上で知っておきたい事前知識
 </strong></span></summary>
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </details>
 
   #
