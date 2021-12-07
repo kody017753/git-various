@@ -96,6 +96,22 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 2.「GitLab」のアカウントを作成する方法
 </strong></span></summary>
 
+1. 公式サイトにアクセスする  
+    https://about.gitlab.com/
+    
+2. 右上の「login」をクリック
+ ![](https://user-images.githubusercontent.com/92492715/144949968-01b1843f-b8a0-4ef2-acf3-f08ab194fd3b.png)   
+    
+3. Sign inの下にある「Register now」をクリック
+![](https://user-images.githubusercontent.com/92492715/144954934-9e0c5d25-fadf-47b4-affc-9e08f3275e83.png) 
+    
+4. 赤枠内のユーザー情報を入力後、「私はロボットではありません」に✅を入れ、「Register」をクリック
+![](https://user-images.githubusercontent.com/92492715/144955688-16486f28-c27c-4e86-944a-5e3e466913b2.png)   
+    
+    
+    
+    
+    
 <details>
 <summary><span style="font-size: 180%"><strong>    
 参考文献    
