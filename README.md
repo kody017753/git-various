@@ -123,9 +123,11 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 ![](https://user-images.githubusercontent.com/92492715/144973652-0866f01a-b6cb-4e26-8f40-f973fd3daed4.png)
     
 7. GitLabのログインを求められるので、先ほど登録した「Username」か「email」と「password」を入力後、「Sign in」をクリック
-![](https://user-images.githubusercontent.com/92492715/146139996-54307a5a-0a1a-4d75-9cb6-d0caffb0bfd5.png)    
+![](https://user-images.githubusercontent.com/92492715/146140385-77bd00bf-cd15-44eb-8d7e-fed0f6587188.png)    
     
+    - 「Remember me」に✅を入れると次回ログイン時に入力が不要になります
     
+8. 「Welcome to GitLab,test!」    
     
     
     
