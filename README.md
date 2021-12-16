@@ -151,8 +151,9 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
 12. 下部に「Ok,let's go」と表示されるのでそこをクリック
 ![](https://user-images.githubusercontent.com/92492715/146297488-6eb39bbb-d2ff-417b-84a6-8fda9964f427.png)    
     
-13. アカウントの作成に成功すると次のような画面が表示される
-![]()
+13. アカウントの作成に成功すると次のような画面が表示される  
+    右上に表示されてる赤枠内は自分だけのアイコンになる
+![](https://user-images.githubusercontent.com/92492715/146298981-e67cfa00-e660-46fd-8483-7dbd19c468fd.png)
     
 14. 終了    
     
