@@ -132,6 +132,11 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
     (ここでの入力情報は、GitLabの利用には影響しない参考情報のため、適当に入力しても問題はない)  
 ![](https://user-images.githubusercontent.com/92492715/146285675-0a013820-3731-45cd-9c88-84fb25ec3bb2.png)
     
+| **項目** | **説明** |
+| :-|:-|     
+|**Role**|役割。なんでもいい|
+|**I'm signing up for GitLab because:**|GitLabを使う理由。なんでもいい|    
+    
 9. 「Create your Group」と表示されたら「Group name」に好きな名前を入力  
     「Group URL」はGroup nameに沿って自動で生成される  
     「Visibility level（公開範囲）」で「Private」を選択し、「Create group」をクリック
