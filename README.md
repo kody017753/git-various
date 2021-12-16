@@ -128,8 +128,18 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
     - 「Remember me」に✅を入れると次回ログイン時に入力が不要になります
     
 8. 「Welcome to GitLab,test!」と表示され、自分の役職とGitLabの用途を聞かれるがそのままでOK。  
-    「Who will be using GitLab?(誰がGitLabを使用しますか？)」と聞かれるので「Just me(私だけ)」に✅し、「Continue」をクリック
-![](https://user-images.githubusercontent.com/92492715/146285675-0a013820-3731-45cd-9c88-84fb25ec3bb2.png)    
+    「Who will be using GitLab?(誰がGitLabを使用しますか？)」と聞かれるので「Just me(私だけ)」に✅し、「Continue」をクリック  
+    (ここでの入力情報は、GitLabの利用には影響しない参考情報のため、適当に入力しても問題はない)  
+![](https://user-images.githubusercontent.com/92492715/146285675-0a013820-3731-45cd-9c88-84fb25ec3bb2.png)
+    
+9. 「Create your Group」と表示されたら「Group name」に好きな名前を入力。「Group URL」はGroup nameに沿って自動で生成される。  
+    「Visibility level（公開範囲）」で「Private」を選択
+![](https://user-images.githubusercontent.com/92492715/146291932-287c6f4f-f216-44b4-b8ea-ef916e7b127b.png)    
+    
+    
+    
+    
+    
     
     
 <details>
