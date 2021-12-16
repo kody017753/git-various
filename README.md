@@ -142,6 +142,19 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
     「Visibility level（公開範囲）」で「Private」を選択し、「Create project」をクリック
 ![](https://user-images.githubusercontent.com/92492715/146294467-da176afa-77c3-444d-ac56-3987347db802.png)    
     
+様々なサービスからimportできるがひとまず無視で
+![](https://user-images.githubusercontent.com/92492715/146295074-67688c98-f064-4e9f-b326-9eb84cc60498.png)    
+
+11. 「Get started with GitLab」と表示されたらしばらく待つ
+![](https://user-images.githubusercontent.com/92492715/146295531-ac71e707-d735-47c1-b260-157f2c67a227.png)    
+    
+12. 下部に「Ok,let's go」と表示されるのでそこをクリック
+![](https://user-images.githubusercontent.com/92492715/146297488-6eb39bbb-d2ff-417b-84a6-8fda9964f427.png)    
+    
+13. アカウントの作成に成功すると次のような画面が表示される
+![]()
+    
+14. 終了    
     
     
     
