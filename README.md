@@ -132,12 +132,15 @@ https://www.anken-navi.jp/news/work-freelance/git-description/
     (ここでの入力情報は、GitLabの利用には影響しない参考情報のため、適当に入力しても問題はない)  
 ![](https://user-images.githubusercontent.com/92492715/146285675-0a013820-3731-45cd-9c88-84fb25ec3bb2.png)
     
-9. 「Create your Group」と表示されたら「Group name」に好きな名前を入力。「Group URL」はGroup nameに沿って自動で生成される。  
-    「Visibility level（公開範囲）」で「Private」を選択
+9. 「Create your Group」と表示されたら「Group name」に好きな名前を入力  
+    「Group URL」はGroup nameに沿って自動で生成される  
+    「Visibility level（公開範囲）」で「Private」を選択し、「Create group」をクリック
 ![](https://user-images.githubusercontent.com/92492715/146291932-287c6f4f-f216-44b4-b8ea-ef916e7b127b.png)    
     
-    
-    
+10.  「Create/import your first project」と表示されたら「Project name」に好きな名前を入力  
+    「Project URL」はProject nameに沿って自動で生成される  
+    「Visibility level（公開範囲）」で「Private」を選択し、「Create project」をクリック
+![](https://user-images.githubusercontent.com/92492715/146294467-da176afa-77c3-444d-ac56-3987347db802.png)    
     
     
     
