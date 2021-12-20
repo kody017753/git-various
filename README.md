@@ -182,11 +182,16 @@ https://www.gitlab.jp/blog/2020/06/23/steps-to-get-a-gitlab-dot-com-account-and-
 
 <details>
 <summary><span style="font-size: 180%"><strong>
-2.GitHubを使う上で知っておきたい事前知識
+3.GitHubを使う上で知っておきたい事前知識
 </strong></span></summary>
 
     
-    
+#
+
+<details>
+<summary><span style="font-size: 180%"><strong>
+GitHub（GitLab）の基本操作
+</strong></span></summary>    
     
     
     
